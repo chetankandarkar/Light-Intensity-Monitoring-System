@@ -19,7 +19,7 @@ Hardware Required
 <img src="Images/Hardware%20Setup.png" width="400"/>
 
 2) Link Product to the device :
-- Log in to [https://cloud.boltiot.com/](https://cloud.boltiot.com/)
+- Sign in to [https://cloud.boltiot.com/](https://cloud.boltiot.com/)
 - Click on link button and select your bolt device.
 - Go to device tab and click on deploy configuration button.
 
