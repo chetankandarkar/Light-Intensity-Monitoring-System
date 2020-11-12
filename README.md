@@ -21,6 +21,14 @@ Hardware Setup :
 <img src="Images/Hardware%20Setup.png" width="400"/>
 
 2) Link Product to the device :
+- Go to [cloud.boltiot.com](cloud.boltiot.com)
+- Click on link button and select your bolt device.
+- Go to device tab and click on deploy configuration button.
+
+![](Images/Link%20Product.png)
+
+- Click on deploy configuration button after every 10 seconds than Cick on view device button you will see table with data.
+
 
 
 ## Product Setup :
