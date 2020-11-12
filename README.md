@@ -10,18 +10,16 @@ Hardware Required
 - 10k Ohm Resistor (brown black orange color code)
 
 ## Procedure 
-1) Do the Circuit Connection :
+1) Hardware Setup :
 - Insert one lead of the LDR into the Bolt Module's 3v3 Pin.
 - Insert other lead of the LDR into the A0 pin.
 - Insert one leg of the 10k Ohm resistor into the GND pin
 - Insert the other leg of the resistor also into the A0 pin
 
-Hardware Setup :
-
 <img src="Images/Hardware%20Setup.png" width="400"/>
 
 2) Link Product to the device :
-- Go to [https://cloud.boltiot.com/](https://cloud.boltiot.com/)
+- Log in to [https://cloud.boltiot.com/](https://cloud.boltiot.com/)
 - Click on link button and select your bolt device.
 - Go to device tab and click on deploy configuration button.
 
@@ -31,7 +29,7 @@ Hardware Setup :
 
 ![](Images/Data%20Table.png)
 
-2) Product Setup :
+3) Product Setup :
 - Go to Product tab 
 - Give product name.
 - Select input data and GPIO than click on done button.
@@ -42,7 +40,7 @@ Hardware Setup :
 
 ![](Images/Product%20Setup.png)
 
-3) Enter the code:
+4) Coding :
 - Click on code tab.
 - Give file name "light_monitor"
 - Choose file type js extension.
