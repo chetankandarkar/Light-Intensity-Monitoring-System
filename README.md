@@ -1,7 +1,7 @@
 # Light-Intensity-Monitoring-System
 Bolt Cloud Project
 
-Aim : connect LDR to the Bolt 
+Aim : Visualize the data from the LDR in different graph format.
 
 Hardware Required
 - Bolt IoT Module
@@ -9,7 +9,8 @@ Hardware Required
 - LDR (2 legged devicewith a red wave pattern disk on top)
 - 10k Ohm Resistor (brown black orange color code)
 
-Circuit Connection :
+## Procedure 
+1) Do the Circuit Connection :
 - Insert one lead of the LDR into the Bolt Module's 3v3 Pin.
 - Insert other lead of the LDR into the A0 pin.
 - Insert one leg of the 10k Ohm resistor into the GND pin
@@ -18,6 +19,8 @@ Circuit Connection :
 Hardware Setup :
 
 <img src="Images/Hardware%20Setup.png" width="400"/>
+
+2) Link Product to the device :
 
 
 ## Product Setup :
