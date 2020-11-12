@@ -21,7 +21,7 @@ Hardware Setup :
 <img src="Images/Hardware%20Setup.png" width="400"/>
 
 2) Link Product to the device :
-- Go to [cloud.boltiot.com](cloud.boltiot.com)
+- Go to [https://cloud.boltiot.com/](https://cloud.boltiot.com/)
 - Click on link button and select your bolt device.
 - Go to device tab and click on deploy configuration button.
 
@@ -29,12 +29,25 @@ Hardware Setup :
 
 - Click on deploy configuration button after every 10 seconds than Cick on view device button you will see table with data.
 
+![](Images/Data%20Table.png)
 
+2) Product Setup :
+- Go to Product tab 
+- Give product name.
+- Select input data and GPIO than click on done button.
+- Now click on configuration button.
+- In hardware tab select data rate 5 minutes.
+- Select A0 pin and enter light in variable name.
+- Then Click on save button.
 
-## Product Setup :
 ![](Images/Product%20Setup.png)
 
-## Enter the code:
+3) Enter the code:
+- Click on code tab.
+- Give file name "light_monitor"
+- Choose file type js extension.
+- Now Enter the code for different graph format and visualize the graph in difftent format.
+
 ![](Images/Javascript%20Code.png)
 
 ## Output:
@@ -53,3 +66,5 @@ Hardware Setup :
 
 ## Gauge Graph:
 ![](Images/Gauge%20Graph.png)
+
+Conclusion : Hence we visualise LDR data in different graph format using javascript code .
